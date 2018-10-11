@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name esl-rescue)(type Legacy)(uri ${KIPRJMOD}/esl-rescue.lib)(options "")(descr ""))
+  (lib (name st-020)(type Legacy)(uri ${KIPRJMOD}/st-020.lib)(options "")(descr ""))
+  (lib (name ref)(type Legacy)(uri ${KIPRJMOD}/ref.lib)(options "")(descr ""))
+  (lib (name p6bui)(type Legacy)(uri ${KIPRJMOD}/p6bui.lib)(options "")(descr ""))
+  (lib (name tlp181gb)(type Legacy)(uri ${KIPRJMOD}/tlp181gb.lib)(options "")(descr ""))
+  (lib (name tlc5615)(type Legacy)(uri ${KIPRJMOD}/tlc5615.lib)(options "")(descr ""))
+  (lib (name p6au)(type Legacy)(uri ${KIPRJMOD}/p6au.lib)(options "")(descr ""))
+)
