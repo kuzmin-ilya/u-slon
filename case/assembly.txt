@@ -1,0 +1,8 @@
+
+The device is designed for packaging into Gainta G706 enclosure:
+http://www.gainta.com/en/g706.html
+
+The face panel can be made as PCB in the same order with the main board. In this case, use u-slon-face.kicad\_pcb.
+Or it can be made with laser engraving; in this case, use u-slon-face-final.dxf.
+
+The board is fixed at the panel, so you can use other enclosure just using the proper face panel. 
