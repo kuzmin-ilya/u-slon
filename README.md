@@ -10,6 +10,8 @@ Please consult [assembly.txt](case/assembly.txt).
 **Scheme of the device output**
 
 Programmator connection is inside the enclosure. Output plugs are only USB and 2 Jacks (6.3 mm).
+Pulse output has contacts galvanically separated from the rest circuit. 
+Trigger output has the contact with trigger pulses with the fixed positive amplitude and the ground contact.
 
 ![U-SLON output](case/out-plugs.svg)
 
